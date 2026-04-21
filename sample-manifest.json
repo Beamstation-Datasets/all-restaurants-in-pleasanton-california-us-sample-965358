@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0c3bdc0a-72d7-4888-a7b8-5d19d00f15ce",
+  "export_job_id": "b02db633-9a3c-4f85-81f6-887d184cf991",
   "id_short": 965358,
-  "published_at": "2026-04-17T07:55:24Z",
+  "published_at": "2026-04-21T20:01:02Z",
   "repo_name": "all-restaurants-in-pleasanton-california-us-sample-965358",
   "sample_asset_name": "beamstation_965358_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/965358/beamstation_965358_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "476f9abda7a8842177c1d651930233a0b3d0b62201d195cfa2183d9ea7a1219d",
-  "sample_size_bytes": 88907,
-  "total_records": 213
+  "sample_records": 18,
+  "sample_sha256": "f655cd8e2dbf74ea8948f5b26542ee361a6ee23a43a5348b1f18fba1fe131349",
+  "sample_size_bytes": 81490,
+  "total_records": 184
 }
