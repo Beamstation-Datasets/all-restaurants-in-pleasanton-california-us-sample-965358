@@ -1,6 +1,6 @@
 # All Restaurants in Pleasanton, California, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `965358` |
 | Location | Pleasanton |
 | Category | Restaurants |
-| Full dataset size | 158 records |
-| Free sample size | 15 records (9.49%) |
-| Last export | 2026-04-28T10:05:15.356438+00:00 |
+| Full dataset size | 227 records |
+| Free sample size | 22 records (9.69%) |
+| Last export | 2026-05-05T10:45:21.651461+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pleasanton-california-us-sample-965358/releases/download/sample-latest/beamstation_965358_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
